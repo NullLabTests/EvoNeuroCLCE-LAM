@@ -1,0 +1,1 @@
+{"matched_rule":{"source":"/blog(([/\\?].*)?$)","target":"//www.ibm.com/think","target_rule":"//www.ibm.com/think","status":301,"hostname":"www.ibm.com","extracted_host":"www.ibm.com"}}
